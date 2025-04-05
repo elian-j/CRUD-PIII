@@ -74,6 +74,19 @@ namespace Proyecto_2023_1721
             txtTelefono.Text = dataGridView1.CurrentRow.Cells["Telefono"].Value.ToString();
             txtCorreo.Text = dataGridView1.CurrentRow.Cells["Correo"].Value.ToString();
         }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (idSeleccionado == 0) return;
+            using (SqlConnection cn = Conexion.ObtenerConexion())
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand("DELETE FROM Contactos WHERE Id=@Id", cn);
+                cmd.Parameters.AddWithValue("@Id", idSeleccionado);
+                cmd.ExecuteNonQuery();
+                CargarContactos();
+            }
+        }
     }
     
 }
