@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\Proyecto 2023-1721.exe.config
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\Proyecto 2023-1721.exe
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\Proyecto 2023-1721.pdb
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto 2023-1721.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto_2023_1721.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto 2023-1721.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto 2023-1721.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto.F97C74ED.Up2Date
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto 2023-1721.exe
+C:\Users\Usuario\OneDrive\Documentos\GitHub\CRUD-PIII\Proyecto 2023-1721\obj\Debug\Proyecto 2023-1721.pdb
