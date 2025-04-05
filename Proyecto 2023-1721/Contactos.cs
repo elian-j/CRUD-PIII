@@ -35,5 +35,19 @@ namespace Proyecto_2023_1721
         {
             CargarContactos();
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            using (SqlConnection cn = Conexion.ObtenerConexion())
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand("INSERT INTO Contactos (Nombre, Telefono, Correo) VALUES (@Nombre, @Telefono, @Correo)", cn);
+                cmd.Parameters.AddWithValue("@Nombre", txtNombre.Text);
+                cmd.Parameters.AddWithValue("@Telefono", txtTelefono.Text);
+                cmd.Parameters.AddWithValue("@Correo", txtCorreo.Text);
+                cmd.ExecuteNonQuery();
+                CargarContactos();
+            }
+        }
     }
 }
